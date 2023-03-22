@@ -1,0 +1,1 @@
+elasticsearch、redis、MongoDB
