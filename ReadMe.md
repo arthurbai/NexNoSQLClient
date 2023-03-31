@@ -24,4 +24,4 @@ NexNoSQLClient is a desktop client for NoSQL（Elasticsearch、redis、MongoDB�
 ## 5、未来规划
 详见：[未来规划]()
 ## 6、问题反馈
-<img src="docs/问题反馈.jpg" width="30%">
+<img src="问题反馈.jpg" width="30%">
