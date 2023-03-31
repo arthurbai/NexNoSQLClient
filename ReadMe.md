@@ -18,6 +18,6 @@ NexNoSQLClient is a desktop client for NoSQL（Elasticsearch、redis、MongoDB�
 - Comprehensive functions, including three basic functions: data operation, data modeling, and management monitoring. In addition, advanced operations are freely expanded, covering most non relational database usage scenarios
 - Highly integrated, including Elasticsearch, Redis, MongoDB, and non relational databases
 ## 3、功能介绍
-[https://github.com/NexNoSQL/NexNoSQLClient/blob/main/%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.md]()
+[https://github.com/NexNoSQL/NexNoSQLClient/blob/main/%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D.md]("功能介绍")
 ## 4、问题反馈
 <img src="问题反馈.jpg" width="30%">
