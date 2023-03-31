@@ -10,7 +10,7 @@ NexNoSQLClient is a desktop client for NoSQL（Elasticsearch、redis、MongoDB�
 ## 2、NexNoSQLClient有何独特之处？
 - 即开即用，无需部署服务，最大限度降低使用成本
 - 操作便捷，图形化界面一目了然，省去各种复杂DSL的学习成本，减少查找、编写脚本时间
-- 功能全面，包含数据操作、数据建模、管理监控三大基础功能，另有高级操作自由扩展，覆盖绝大部分非关系型数据库使用场景
+- 功能全面，数据操作、数据建模、管理监控轻松驾驭，另有高级操作自由扩展，覆盖绝大部分非关系型数据库使用场景
 - 高度集成，Elasticsearch、redis、MongoDB，非关系型数据库一网打尽
 ## 2 what's unique about Fast-ES
 - Out of the box, no need to deploy services, minimizing usage costs.
